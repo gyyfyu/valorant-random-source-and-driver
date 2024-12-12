@@ -1,0 +1,48 @@
+﻿  main.cpp
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\driver.h(39,56): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(6,10): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(11,11): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'T'
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(11,11): warning C4477:         with
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(11,11): warning C4477:         [
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(11,11): warning C4477:             T=uintptr_t
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(11,11): warning C4477:         ]
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(14,11): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'T'
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(14,11): warning C4477:         with
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(14,11): warning C4477:         [
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(14,11): warning C4477:             T=uintptr_t
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(14,11): warning C4477:         ]
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(19,10): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'T'
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(19,10): warning C4477:         with
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(19,10): warning C4477:         [
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(19,10): warning C4477:             T=uintptr_t
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(19,10): warning C4477:         ]
+      C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(19,10):
+      consider using '%llx' in the format string
+      C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(19,10):
+      consider using '%Ix' in the format string
+      C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(19,10):
+      consider using '%I64x' in the format string
+  
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(22,11): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'T'
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(22,11): warning C4477:         with
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(22,11): warning C4477:         [
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(22,11): warning C4477:             T=uintptr_t
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(22,11): warning C4477:         ]
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(28,6): warning C4326: return type of 'main' should be 'int' instead of 'const LONG'
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(32,10): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+      C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(32,10):
+      consider using '%lli' in the format string
+      C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(32,10):
+      consider using '%Ii' in the format string
+      C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(32,10):
+      consider using '%I64i' in the format string
+  
+C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\User\main.cpp(36,22): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  Generating code
+  1 of 81 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  User.vcxproj -> C:\Users\Setup Game\Desktop\valorant driver\Shadow-Regions-Bypass\x64\Release\User.exe
